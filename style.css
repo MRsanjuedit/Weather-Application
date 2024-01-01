@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     display: flex;
     justify-content: center;
-    background-image: url("assets/background.jpg");
+    background-image: url("background.jpg");
     background-size: cover;
     align-items: center;
     height: 100vh;
